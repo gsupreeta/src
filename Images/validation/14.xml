@@ -1,0 +1,15 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>14.png</filename>
+    <path>hiwi_annotation-PascalVOC-export/Annotations/14.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>370</width>
+        <height>370</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    
+</annotation>

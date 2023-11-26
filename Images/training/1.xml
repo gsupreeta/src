@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>1.png</filename>
+    <path>hiwi_annotation-PascalVOC-export/Annotations/1.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>316</width>
+        <height>358</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>nrfp</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>35.48348445595855</xmin>
+        <ymin>21.27542857142857</ymin>
+        <xmax>263.4783031088083</xmax>
+        <ymax>137.06285714285715</ymax>
+    </bndbox>
+</object>
+</annotation>
